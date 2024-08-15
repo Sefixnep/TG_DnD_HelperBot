@@ -1,7 +1,4 @@
 pyTelegramBotAPI
 loguru
-auto-py-to-exe
-datetime
 openai==0.28.0
-requests
 requests
