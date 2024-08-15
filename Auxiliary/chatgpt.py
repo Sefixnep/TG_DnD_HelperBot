@@ -1,10 +1,10 @@
 # Libs
 import openai
 import requests
+from Auxiliary.config import api_gpt
 
 # Configure the OpenAI library with the API key
-openai.api_key = ("sk-proj-bJuwWQF1ea1g5zsV5HHaxPZY9Ni1htB5j8In_sHatlp9lYPHxvalsqBUOQsVanUXLzDbpI-62TT3BlbkFJB1pBe_N4O"
-                  "-HFgt4w716VXhx0cBws6lbSBn-wT2sg5b6DJsX1BBuYrHDvIHfGCQ3wesoRo7ac0A")
+openai.api_key = api_gpt
 
 
 class Chat:
