@@ -3,4 +3,4 @@
 
 Bot = "TG_DnD_bot"
 BOT_TOKEN = "7437034068:AAEYndTl0Tk4gup25Wu08IWGoMVIMvGSQ_0"
-api_gpt = "sk-wbLMHL6wucEqutZK5RKnKbqjiSy2RG-_Tqbod-Z1x8T3BlbkFJO2bRS4fuhB7I7iPz90KaxOVVWK8xVUuLrNeQle1VsA"
+api_gpt = "sk-EEbaLASG4MCcyhXgkHFkfUSwt96qN2QWMybGbyDxHbT3BlbkFJv6XUPYAFTmmemvc3qYxXZTB08a32ItgLERPbhyWeEA"
